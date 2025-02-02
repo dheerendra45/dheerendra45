@@ -52,7 +52,6 @@ I'm a **Full-Stack Developer** specializing in the **MERN stack (MongoDB, Expres
 
 ## 🏆 Achievements  
 
-- **Secured 3rd place** in a school science exhibition.  
 - **Worked as an intern at Mars Club**, focusing on **robot autonomy** using **ROS (Robot Operating System)**.  
 - **Built multiple AI/ML models** and **real-time applications**.  
 
