@@ -92,11 +92,6 @@ I'm a **Full-Stack Developer** specializing in the **MERN stack (MongoDB, Expres
 
 🔗 **Repo**: *(Coming Soon!)*  
 
----
-
-## 🔥 Fun Fact  
-
-I love **writing poetry**, and I sometimes add poetic elements into my code! 💡  
 
 ---
 
